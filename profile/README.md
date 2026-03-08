@@ -1,36 +1,31 @@
-# 🌊 Laboratorio de Oceanografía Física - UACh
+# Laboratorio de Oceanografía Física - UACh
 
+## 📂 Estructura de Repositorios
 
-## 📂 Estructura del Espacio de Trabajo
+Para mantener el orden en la organización usamos  repositorios separados. Los identificamos usando prefijos en el nombre:
 
-Para mantener el orden, utilizaremos la siguiente jerarquía:
-
-* **`integrantes/`**: Cada miembro del lab debe crear una carpeta con su nombre (ej: `integrantes/nombre-integrante/`). Aquí puedes guardar borradores, pruebas de código personales o scripts de uso individual.
-* **`proyectos/`**: Carpeta para proyectos grupales, investigaciones en curso o tesis. Todos los miembros pueden interactuar y colaborar en estos códigos.
-* **`recursos/`**:
-    * `documentacion/`: **Contiene el archivo `ACCESOS.md` con las credenciales para cuentas del lab.**
-    * `logos/`: Logos oficiales de la UACh, del laboratorio y de colaboradores.
-    * `plantillas-latex/`: Formatos estandarizados para informes de práctica, tesis y presentaciones.
-
-
-## 🛠️ Recursos Compartidos
-
-### 📄 Plantillas de LaTeX
-Contamos con una carpeta de plantillas configuradas para que todos mantengamos la misma estética en:
-* Informes de Práctica Profesional.
-* Tesis de Pregrado y Postgrado.
-* Pósteres para Congresos.
-
-### 🎨 Identidad Visual
-En la carpeta `recursos/logos/` encontrarás versiones  de los logos necesarios.
+* **`usr-` (Personales)**: Cada miembro tiene su propio repositorio para borradores, pruebas de código o scripts individuales (ej: `usr-nombre`).
+* **`lab-` (Recursos Compartidos)**: Repositorios de gestión interna del laboratorio (ej: `lab-recursos`).
 
 ---
 
-## 🚀 Cómo empezar
-1. **Clona** este repositorio en tu PC. haciendo uso de **git pull**
-2. Si eres nuevo, crea tu carpeta en `integrantes/`.
-3. Antes de subir archivos pesados (datos `.nc`, `.mat` o imágenes), asegúrate de tener configurado **Git LFS**.
+## Recursos Compartidos (`lab-recursos`)
+
+Todo el material común vive en el repositorio **`lab-recursos`**. Ahí encontrarás:
+
+* **`documentacion/`**: Contiene el archivo `credenciales.md` con las credenciales para cuentas del lab.
+* **`logos/`**: Versiones de los logos de la UACh, del laboratorio y colaboradores.
+* **`plantillas/`**: Formatos estandarizados.
+* **`tutoriales/`**: Intrucciones para algunos programmas del lab y una guía rápida de Git.
+
+---
+
+## Cómo empezar
+
+1. **Clona** el repositorio que necesites en tu PC usando el comando `git clone [URL]`. (Recuerda usar `git pull` antes de empezar a trabajar para actualizar).
+2. Si eres nuevo en el laboratorio, crea (o solicita) tu repositorio personal con el formato `usr-tu-nombre`.
+3. Antes de subir archivos pesados (datos `.nc`, `.mat` o imágenes de alta resolución), asegúrate de tener configurado **Git LFS**.
 4. ¡Mantén tu código comentado para que tus compañeros puedan entenderlo!
 
 ---
-*Mantenido por el equipo del Laboratorio Oceanografía Física - Universidad Austral de Chile.*
+*Mantenido por el equipo del Laboratorio de Oceanografía Física - Universidad Austral de Chile.*
