@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://github.com/Laboratorio-Oceanografia-Fisica-UACh/lab-recursos/blob/main/logos/logo_uach_tiny_name.png" alt="logo_uach_tiny_name" width="200">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/Laboratorio-Oceanografia-Fisica-UACh/lab-recursos/blob/main/logos/logo_lab.png" alt="Logo_lab" width="200">
+</p>
+
 # Laboratorio de Oceanografía Física - UACh
 
 ## 📂 Estructura de Repositorios
