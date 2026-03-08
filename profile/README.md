@@ -1,8 +1,8 @@
-<p>
-  <img src="https://github.com/Laboratorio-Oceanografia-Fisica-UACh/lab-recursos/blob/main/logos/escudo_uach.png" alt="Logo UACh" width="150">
-  <img src="https://github.com/Laboratorio-Oceanografia-Fisica-UACh/lab-recursos/blob/main/logos/logo_lab.png" alt="Logo_lab" width="200">
-</p>
-<br clear="all" />
+<dis>
+  <img src="https://github.com/Laboratorio-Oceanografia-Fisica-UACh/lab-recursos/blob/main/logos/escudo_uach.png" alt="Logo UACh" align="left" width="150">
+  <img src="https://github.com/Laboratorio-Oceanografia-Fisica-UACh/lab-recursos/blob/main/logos/logo_lab.png" alt="Logo_lab" align="right" width="200">
+</div>
+<br clear="all">
 <br>
 
 # Laboratorio de Oceanografía Física - UACh
