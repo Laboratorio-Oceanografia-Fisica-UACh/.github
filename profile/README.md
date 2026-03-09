@@ -1,6 +1,6 @@
 <dis>
-  <img src="https://github.com/Laboratorio-Oceanografia-Fisica-UACh/lab-recursos/blob/main/logos/escudo_uach.png" alt="Logo UACh" align="left" width="150">
-  <img src="https://github.com/Laboratorio-Oceanografia-Fisica-UACh/lab-recursos/blob/main/logos/logo_lab.png" alt="Logo_lab" align="right" width="150">
+  <img src="https://github.com/Laboratorio-Oceanografia-Fisica-UACh/lab-recursos/blob/main/logos/escudo_uach.png" alt="Logo UACh" align="right" width="150">
+  <img src="https://github.com/Laboratorio-Oceanografia-Fisica-UACh/lab-recursos/blob/main/logos/logo_lab.png" alt="Logo_lab" align="left" width="150">
 </div>
 <br clear="all">
 <br>
