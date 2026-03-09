@@ -1,5 +1,5 @@
 <dis>
-  <img src="https://github.com/Laboratorio-Oceanografia-Fisica-UACh/lab-recursos/blob/main/logos/escudo_uach.png" alt="Logo UACh" align="right" width="130">
+  <img src="https://github.com/Laboratorio-Oceanografia-Fisica-UACh/lab-recursos/blob/main/logos/escudo_uach.png" alt="Logo UACh" align="right" width="110">
   <img src="https://github.com/Laboratorio-Oceanografia-Fisica-UACh/lab-recursos/blob/main/logos/logo_lab.png" alt="Logo_lab" align="left" width="150">
 </div>
 <br clear="all">
