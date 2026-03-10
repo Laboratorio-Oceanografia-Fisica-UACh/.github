@@ -13,6 +13,7 @@ Para mantener el orden en la organización usamos  repositorios separados. Los i
 
 * **`usr-` (Personales)**: Cada miembro tiene su propio repositorio para borradores, pruebas de código o scripts individuales (ej: `usr-nombre`).
 * **`lab-` (Recursos Compartidos)**: Repositorios de gestión interna del laboratorio (ej: `lab-recursos`).
+* **`proj-` (Proyectos del laboratorio)**: Repositorios de proyectos conjuntos del equipo (ej: `proj-modelo-surgencia`).
 
 ---
 
