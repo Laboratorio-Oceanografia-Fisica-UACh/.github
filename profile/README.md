@@ -1,11 +1,18 @@
 <dis>
-  <img src="https://github.com/Laboratorio-Oceanografia-Fisica-UACh/lab-recursos/blob/main/logos/escudo_uach.png" alt="Logo UACh" align="right" width="110">
-  <img src="https://github.com/Laboratorio-Oceanografia-Fisica-UACh/lab-recursos/blob/main/logos/logo_lab.png" alt="Logo_lab" align="left" width="150">
+  <img src="https://github.com/user-attachments/assets/9bc509a2-df1e-4fdd-9d58-8a9348790565" alt="Logo UACh" align="right" width="110">
+  <img src="https://github.com/user-attachments/assets/ddc538b6-92e5-42b3-836f-b4d8da9812c2" alt="Logo_lab" align="left" width="150">
 </div>
 <br clear="all">
 <br>
 
-# Laboratorio de Oceanografía Física - UACh
+
+# 🌊 Laboratorio de Oceanografía Física - UACh
+
+Bienvenidos al espacio de desarrollo y análisis de datos de nuestro laboratorio. Investigamos la dinámica océano-atmósfera, fenómenos climáticos y sistemas costeros combinando modelación numérica, teledetección y mediciones in situ.
+
+> ⚠️ **Nota para visitantes:** Actualmente, nuestros repositorios de investigación, códigos y bases de datos se encuentran **privados** por encontrarse en fase de desarrollo o corresponder a tesis en curso. Si buscas colaborar o tienes consultas sobre nuestros estudios, te invitamos a contactarnos por nuestros canales oficiales.
+
+---
 
 ## 📂 Estructura de Repositorios
 
