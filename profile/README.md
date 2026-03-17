@@ -5,7 +5,13 @@
 <br clear="all">
 <br>
 
-# Laboratorio de Oceanografía Física - UACh
+# 🌊 Laboratorio de Oceanografía Física - UACh
+
+Bienvenidos al espacio de desarrollo y análisis de datos de nuestro laboratorio. Investigamos la dinámica océano-atmósfera, fenómenos climáticos y sistemas costeros combinando modelación numérica, teledetección y mediciones in situ.
+
+> ⚠️ **Nota para visitantes:** Actualmente, nuestros repositorios de investigación, códigos y bases de datos se encuentran **privados** por encontrarse en fase de desarrollo o corresponder a tesis en curso. Si buscas colaborar o tienes consultas sobre nuestros estudios, te invitamos a contactarnos por nuestros canales oficiales.
+
+---
 
 ## 📂 Estructura de Repositorios
 
