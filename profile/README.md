@@ -40,7 +40,7 @@ Todo el material común vive en el repositorio **`lab-recursos`**. Ahí encontra
 - **`documentacion/`**: Contiene el archivo `credenciales.md` con las credenciales para cuentas del lab.
 - **`logos/`**: Versiones de los logos de la UACh, del laboratorio y colaboradores.
 - **`plantillas/`**: Formatos estandarizados.
-- **`tutoriales/`**: Intrucciones para algunos programmas del lab y una guía rápida de Git.
+- **`tutoriales/`**: Intrucciones para algunos programas del lab y una guía rápida de Git.
 
 ---
 
