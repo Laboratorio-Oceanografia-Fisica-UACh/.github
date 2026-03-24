@@ -33,24 +33,4 @@ Para mantener el orden en la organización usamos repositorios separados. Los id
 
 ---
 
-## Recursos Compartidos (`lab-recursos`)
-
-Todo el material común vive en el repositorio **`lab-recursos`**. Ahí encontrarás:
-
-- **`documentacion/`**: Contiene el archivo `credenciales.md` con las credenciales para cuentas del lab.
-- **`logos/`**: Versiones de los logos de la UACh, del laboratorio y colaboradores.
-- **`plantillas/`**: Formatos estandarizados.
-- **`tutoriales/`**: Intrucciones para algunos programas del lab y una guía rápida de Git.
-
----
-
-## Cómo empezar
-
-1. **Clona** el repositorio que necesites en tu PC usando el comando `git clone [URL]`. (Recuerda usar `git pull` antes de empezar a trabajar para actualizar).
-2. Si eres nuevo en el laboratorio, crea (o solicita) tu repositorio personal con el formato `usr-tu-nombre`.
-3. Antes de subir archivos pesados (datos `.nc`, `.mat` o imágenes de alta resolución), asegúrate de tener configurado **Git LFS**.
-4. ¡Mantén tu código comentado para que tus compañeros puedan entenderlo!
-
----
-
 _Mantenido por el equipo del Laboratorio de Oceanografía Física - Universidad Austral de Chile._
