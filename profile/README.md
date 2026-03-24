@@ -1,9 +1,9 @@
 <dis>
-<table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td align="left"><img src="https://github.com/user-attachments/assets/9bc509a2-df1e-4fdd-9d58-8a9348790565" alt="Logo UACh" width="110"></td>
-<td align="center"><img src="https://github.com/user-attachments/assets/10d6352f-4ab1-4723-82fa-4cdd39ef143f" alt="Logo_icml" width="250"></td>
-<td align="right"><img src="https://github.com/user-attachments/assets/ddc538b6-92e5-42b3-836f-b4d8da9812c2" alt="Logo_lab" width="150"></td>
+<td width="33%" align="left"><img src="https://github.com/user-attachments/assets/9bc509a2-df1e-4fdd-9d58-8a9348790565" alt="Logo UACh" width="110"></td>
+<td width="34%" align="center"><img src="https://github.com/user-attachments/assets/10d6352f-4ab1-4723-82fa-4cdd39ef143f" alt="Logo_icml" width="250"></td>
+<td width="33%" align="right"><img src="https://github.com/user-attachments/assets/ddc538b6-92e5-42b3-836f-b4d8da9812c2" alt="Logo_lab" width="150"></td>
 </tr>
 </table>
 <br clear="all">
