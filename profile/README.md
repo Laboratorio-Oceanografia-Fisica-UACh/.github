@@ -3,7 +3,7 @@
   <img src="https://github.com/user-attachments/assets/ddc538b6-92e5-42b3-836f-b4d8da9812c2" alt="Logo_lab" align="left" width="150">
 </div>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/10d6352f-4ab1-4723-82fa-4cdd39ef143f" alt="Logo_icml" width="200">
+  <img src="https://github.com/user-attachments/assets/10d6352f-4ab1-4723-82fa-4cdd39ef143f" alt="Logo_icml" width="250">
 </p>
 <br clear="all">
 <br>
